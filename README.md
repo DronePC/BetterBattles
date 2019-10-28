@@ -35,6 +35,7 @@ Join the [official discord](https://discord.gg/CH5GpVS) of the project to report
    * turns based on speed now
    * enemy was buffed for testing
    * string formating added for better quality texts
+#### 2019/10/28
 1. 0.2.2
    * no more doctsringed command cluttering the space
    * left more comments
