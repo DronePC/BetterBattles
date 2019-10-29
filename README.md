@@ -23,6 +23,7 @@ Join the [official discord](https://discord.gg/CH5GpVS) of the project to report
    * added battle function, they battle until one is dead
    
 ### New logs
+##### The Speed update
 #### 2019/10/26
 1. 0.2.0
    * scrapped battle command (you can find the scrapped command at the bottom of the code as a docstring)
