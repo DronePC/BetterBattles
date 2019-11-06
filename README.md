@@ -21,6 +21,9 @@ Join the [official discord](https://discord.gg/CH5GpVS) of the project to report
    * added checking for attack
    * added more equipment items
    * added battle function, they battle until one is dead
+
+   ### Contributors 
+   [SHADOWELITE7](https://github.com/SHADOWELITE7)
    
 ### New logs
 #### 2019/10/26
