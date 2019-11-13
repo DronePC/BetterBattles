@@ -4,6 +4,8 @@ Hello! My name is DronePC.
 This is where I post code for my little battle project called BetterBattles!
 
 Join the [official discord](https://discord.gg/CH5GpVS) of the project to report bugs and suggest what you want added next!
+### Contributors 
+[SHADOWELITE7](https://github.com/SHADOWELITE7)-
 # Changelog
 ### Lost logs
 1.
@@ -20,11 +22,7 @@ Join the [official discord](https://discord.gg/CH5GpVS) of the project to report
 1. 
    * added checking for attack
    * added more equipment items
-   * added battle function, they battle until one is dead
-
-   ### Contributors 
-   [SHADOWELITE7](https://github.com/SHADOWELITE7)
-   
+   * added battle function, they battle until one is dead----
 ### New logs
 #### 2019/10/26
 ##### The Speed update
