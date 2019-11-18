@@ -5,7 +5,7 @@ This is where I post code for my little battle project called BetterBattles!
 
 Join the [official discord](https://discord.gg/CH5GpVS) of the project to report bugs and suggest what you want added next!
 ### Contributors 
-[SHADOWELITE7](https://github.com/SHADOWELITE7)-
+[SHADOWELITE7](https://github.com/SHADOWELITE7)
 # Changelog
 ### Lost logs
 1.
